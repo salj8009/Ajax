@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Mono&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Anton&display=swap');
+body {
+	background: rgb(9,121,90);
+	background: linear-gradient(90deg, rgba(9,121,90,0.7203256302521008) 0%, rgba(0,212,255,1) 50%, rgba(2,0,36,1) 100%);
+}
+h1 {
+	font-family: 'Anton', sans-serif;
+}
+li {
+
+	font-family: 'Roboto Mono', monospace;
+	margin: 1em;
+}
